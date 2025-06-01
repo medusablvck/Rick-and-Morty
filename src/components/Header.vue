@@ -9,10 +9,10 @@
 <style scoped>
 header{
   background-color: black;
-  padding: 2rem;
+  padding: 1rem;
 }
 img{
-  width: 300px;
+  width: 250px;
   display: block;
   margin: auto;
 }
