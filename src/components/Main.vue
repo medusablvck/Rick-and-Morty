@@ -90,4 +90,9 @@ p {
     color: red;
     text-align: center;
 }
+@media (max-width:900px){
+    .character-grid{
+        grid-template-columns: repeat(4,1fr);
+    }
+}
 </style>
