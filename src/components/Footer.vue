@@ -25,10 +25,23 @@ a{
     text-decoration: none;
     color: rgb(159, 188, 157);
 }
+
 .rick{
     width: 100px;
 }
 .rick-morti{
-    width: 150px;
+    max-width: 150px;
+}
+@media(max-width:600px){
+    footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    /* p{
+        font-size: 1rem;
+    } */
+    /* img{
+        width: 20%;
+    } */
 }
 </style>

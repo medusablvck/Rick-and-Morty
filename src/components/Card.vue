@@ -28,7 +28,6 @@ defineProps({
 }
 img{
     width: 100%;
-    /* border-radius: 9px; */
     cursor: pointer;
     transition: all 0.7s ease;
 }

@@ -95,4 +95,18 @@ p {
         grid-template-columns: repeat(4,1fr);
     }
 }
+@media (max-width:600px){
+    .character-grid{
+        grid-template-columns: repeat(3,1fr);
+    }
+    h1{
+        font-size: 2.2rem;
+    }
+}
+@media (max-width:400px){
+    .character-grid{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
 </style>

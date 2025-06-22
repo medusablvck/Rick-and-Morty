@@ -75,4 +75,9 @@ button {
     cursor: pointer;
     font-size: 1rem;
 }
+@media (max-width:600px){
+    form{
+        flex-direction: column;
+    }
+}
 </style>
