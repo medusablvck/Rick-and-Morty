@@ -28,7 +28,7 @@ defineProps({
 }
 
 .card-info {
-    padding: 10px;
+    padding: 15px;
 }
 
 img {
