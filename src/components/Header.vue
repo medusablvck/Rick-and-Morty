@@ -15,5 +15,6 @@ img{
   width: 250px;
   display: block;
   margin: auto;
+  background: transparent;
 }
 </style>
