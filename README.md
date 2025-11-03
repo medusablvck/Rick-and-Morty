@@ -13,4 +13,5 @@
 - Vite
 - Rick and Morty API
 - Axios
-https://medusablvck.github.io/Rick-and-Morty/
+
+ Демо: https://medusablvck.github.io/Rick-and-Morty/
